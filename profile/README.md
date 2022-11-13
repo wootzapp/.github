@@ -4,7 +4,10 @@
  -->
 **We’re extremely excited that you landed on our GitHub page!**
 
+📱📲 Download our Android app here: https://play.google.com/store/apps/details?id=com.wootzapp.browser
+
 🧑‍💻 Learn about our code of conduct: https://github.com/wootzapp/.github/blob/main/CODE_OF_CONDUCT.md
+
 
 <!-- 
 ### Check out our new Open Source projects
