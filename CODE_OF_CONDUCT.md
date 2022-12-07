@@ -1,4 +1,4 @@
-The WootzApp Community is a global community of DevOps and security practitioners who collaborate to share knowledge on solving the challenges of integrating security automation into every phase of the software development lifecycle, from build-time to runtime.
+The WootzApp Community is a global community of Web3 & Crypto practitioners who collaborate to share knowledge on solving the challenges of integrating blockchain into every phase of your daily life, from buying coffee to investing your money.
 
 ### We thrive on diversity
 
@@ -100,7 +100,7 @@ Any physical violence or intimidation, threatened or acted on, is a serious offe
 
 There are two defined roles within the WootzApp Community:
 
-- **Community Ambassadors** - Community Ambassadors are designated WootzApp employees that actively participate within the WootzApp Community to welcome all participants on behalf of WootzApp, and who work to ensure community guidelines and the code of conduct are followed by all.
+- **Community Ambassadors** - Community Ambassadors are designated WootzApp representatives that actively participate within the WootzApp Community to welcome all participants on behalf of WootzApp, and who work to ensure community guidelines and the code of conduct are followed by all.
 
 - **Community Members** - A Community Member is anyone who participates with the community whether in-person or via online channels, which also includes Community Ambassadors and WootzApp Employees. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
 
