@@ -1,5 +1,6 @@
 # Hi, fellow Web3 lovers 👋
-![image](https://user-images.githubusercontent.com/76883/208615059-d6dd78ac-1530-49eb-ac61-814218fbadeb.png)
+![image](https://user-images.githubusercontent.com/76883/208950046-242355ca-4e9b-4e95-ae8a-cfe49119c27b.png)
+
 
 
 **We’re extremely excited that you landed on our GitHub page!**
