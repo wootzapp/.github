@@ -1,3 +1,9 @@
+WootzApp uses various agreements to accept contributions of software code and documentation from individuals and corporations, and to accept larger grants of existing software products.
+
+These agreements help us achieve our goal of providing reliable and long-lived software products through collaborative, open-source software development. In all cases, contributors retain full rights to use their original contributions for any other purpose outside of WootzApp, while providing the WootzApp and its projects the right to distribute and build upon their work.
+
+The purpose of this agreement is to clearly define the terms under which intellectual property has been contributed to WootzApp and thereby allow us to defend the project should there be a legal dispute regarding the software. An individual must have submitted a signed CLA to the WootzApp before we give them commit/merge rights to any WootzApp project. This agreement language is very standard and has been originally cloned from other open source projects in the ecosystem. 
+
 # WootzApp INDIVIDUAL CONTRIBUTOR LICENSE AGREEMENT
 
 You accept and agree the below terms and conditions of this Contributor License Agreement (this “CLA”) for all current and future Contributions You provide to WootzApp, Inc. (“WootzApp”). This CLA does not change your ability to use your own Contributions. Except as stated herein, you reserve all right, title and interest in Your Contributions.   
