@@ -7,6 +7,8 @@
 
 📱📲 Download our Android app here: https://play.google.com/store/apps/details?id=com.wootzapp.browser
 
+🤖 Check out our work on AI art and our custom dreambooth/diffusion model gen code [https://github.com/wootzapp/SimpleDiffuserDreambooth](https://github.com/wootzapp/SimpleDiffuserDreambooth)
+
 🧑‍💻 Learn about our code of conduct: https://github.com/wootzapp/.github/blob/main/CODE_OF_CONDUCT.md
 
 
