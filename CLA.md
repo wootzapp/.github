@@ -4,17 +4,70 @@ These agreements help us achieve our goal of providing reliable and long-lived s
 
 The purpose of this agreement is to clearly define the terms under which intellectual property has been contributed to WootzApp and thereby allow us to defend the project should there be a legal dispute regarding the software. An individual must have submitted a signed CLA to the WootzApp before we give them commit/merge rights to any WootzApp project. This agreement language is very standard and has been originally cloned from other open source projects in the ecosystem. 
 
-# WootzApp INDIVIDUAL CONTRIBUTOR LICENSE AGREEMENT
+# WOOTZAPP CONTRIBUTOR LICENSE AND ASSIGNMENT AGREEMENT
 
-You accept and agree the below terms and conditions of this Contributor License Agreement (this “CLA”) for all current and future Contributions You provide to WootzApp, Inc. (“WootzApp”). This CLA does not change your ability to use your own Contributions. Except as stated herein, you reserve all right, title and interest in Your Contributions.   
+This Contributor License and Assignment Agreement ("Agreement") is between WootzApp, Inc., a Delaware corporation ("WootzApp") and the individual or entity submitting Contributions ("Contributor").
 
-1. **Copyright License**. Subject to the terms and conditions of this Agreement, You hereby grant to WootzApp and its affiliates, and to recipients of software distributed by WootzApp or its affiliates, a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works.
-2. **Patent License**. Subject to the terms and conditions of this Agreement, You hereby grant to WootzApp and its affiliates, and to recipients of software distributed by WootzApp or its affiliates, a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work and derivative works, where such license applies only to those patent claims licensable by You that are necessarily infringed by Your Contribution(s) alone or by combination of Your Contribution(s) with the Work to which such Contribution(s) was submitted. If any entity institutes patent litigation against You or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that your Contribution, or the Work to which you have contributed, constitutes direct or contributory patent infringement, then any patent licenses granted to that entity under this CLA for that Contribution or Work shall terminate as of the date such litigation is filed.
-3.  **Rights to Grant Licenses**. You represent that you are legally entitled to grant the above licenses. If your employer(s) has rights to intellectual property that you create that includes your Contributions, you represent that you have received permission to make Contributions on behalf of that employer, that your employer has waived such rights for your Contributions to WootzApp, or that your employer has executed a separate Corporate CLA with WootzApp.
-4. **Original Creation**. You represent that each of Your Contributions is Your original creation (see section 6 for submissions on behalf of others). You represent that Your Contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of Your Contributions.
-5. **Support**. You are not expected to provide support for Your Contributions, except to the extent You desire to provide support. You may provide support for free, for a fee, or not at all. UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, YOU PROVIDE YOUR CONTRIBUTIONS ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON- INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
-6. **Not Original Works**. Should You wish to submit work that is not Your original creation, You may submit it to WootzApp separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".
-7. **Notice of Update**. You agree to notify WootzApp of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
-8. **Definitions**.
-     -  “**You**” (or “**Your**”) shall mean the copyright owner or legal entity authorized by the copyright owner that is making this Agreement with WootzApp. For legal entities, the entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
-     - “**Contribution**” shall mean the code, documentation or any original work of authorship, including any modifications or additions to an existing work, that is or has previously been submitted by You to WootzApp or its affiliates for inclusion in, or documentation of, any of the products owned or managed by WootzApp or its affiliates (the “Work”). For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to WootzApp or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, WootzApp for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution" at the time of submission.
+## 1. Definitions
+
+1.1. "Contribution" means any original work of authorship, including any modifications or additions to existing works, that Contributor intentionally submits to WootzApp for inclusion in any WootzApp project, product, or repository.
+
+1.2. "Compensated Contribution" means any Contribution made in exchange for payment from WootzApp.
+
+1.3. "Submit" means any form of electronic, verbal, or written communication sent to WootzApp, including but not limited to communication through electronic platforms, source code control systems, and issue tracking systems managed by or on behalf of WootzApp.
+
+## 2. Assignment and License Grants
+
+2.1. **Assignment of Rights**
+   - For all Contributions (whether compensated or not), Contributor hereby irrevocably assigns and transfers to WootzApp all worldwide right, title, and interest in:
+     - All copyrights and exclusive rights under copyright law
+     - All patent rights related to the Contributions
+     - All other intellectual property rights
+   - For Compensated Contributions, this assignment explicitly creates a "work-made-for-hire" relationship under copyright law
+
+2.2. **License Rights**
+   WootzApp shall have the exclusive, perpetual, and irrevocable right to:
+   - License the Contributions under any terms
+   - Change or modify licenses at any time without notice
+   - Use different licenses for different portions of the Contributions
+   - Distribute under multiple licenses simultaneously
+   - Combine with other works under any license
+   - Use in both open source and proprietary projects
+   - Grant and authorize sublicenses through multiple tiers
+   - Create and license derivative works
+   - Exercise patent rights in any manner
+
+## 3. Representations and Warranties
+
+Contributor represents and warrants that:
+- They have legal authority to enter this Agreement
+- They own all rights in their Contributions
+- Contributions are original works or Contributor has rights to assign them
+- Contributions do not violate any third-party rights
+- If employed, they have obtained any necessary permissions
+- They understand the perpetual nature of this Agreement
+
+## 4. Electronic Acceptance
+
+4.1. This Agreement becomes legally binding upon Contributor's electronic acceptance.
+
+4.2. Valid forms of acceptance include:
+- Pull request comments stating "I accept and agree to the WootzApp CLA" or "I have read the WootzApp CLA Document and I hereby accept and agree to be bound by its terms"
+- Click-through acceptances on WootzApp platforms
+- Any other form of electronic assent designated by WootzApp
+
+## 5. Governing Law and Jurisdiction
+
+5.1. This Agreement shall be governed by Delaware law, without regard to conflict of law principles.
+
+5.2. The state and federal courts of Delaware shall have exclusive jurisdiction over all disputes.
+
+## 6. Severability and Integration
+
+6.1. If any provision is found unenforceable, the remainder shall continue in effect.
+
+6.2. This Agreement represents the complete agreement regarding Contributions and supersedes all prior agreements, but may be superseded by specific written agreements for particular paid projects.
+
+## 7. Survival
+
+All rights granted and representations made under this Agreement shall survive termination of any employment or consulting relationship with WootzApp.
