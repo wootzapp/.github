@@ -1,4 +1,4 @@
-# Hi, fellow Web3 lovers 👋
+# Hi, 👋
 ![image](https://user-images.githubusercontent.com/76883/208950046-242355ca-4e9b-4e95-ae8a-cfe49119c27b.png)
 
 
