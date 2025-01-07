@@ -87,6 +87,14 @@
       "created_at": "2024-12-31T13:32:36Z",
       "repoId": 871581652,
       "pullRequestNo": 24
+    },
+    {
+      "name": "kritagya-khanna",
+      "id": 120245002,
+      "comment_id": 2568853096,
+      "created_at": "2025-01-03T08:32:54Z",
+      "repoId": 559361743,
+      "pullRequestNo": 200
     }
   ]
 }
